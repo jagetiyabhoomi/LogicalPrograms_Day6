@@ -7,8 +7,8 @@
         {
             //FibonacciSeries.DisplayFibonacciSeries();
             //PerfectNumber.CheckPerfectNumber();
-            //ReverseNumber.ReverseTheNumber();
-            PrimeNumber.CheckPrime();
+            ReverseNumber.ReverseTheNumber();
+            //PrimeNumber.CheckPrime();
             //CouponNumbers.GenerateCouponNumber();
         }
     }
