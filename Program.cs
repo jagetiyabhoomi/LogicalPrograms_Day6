@@ -5,8 +5,8 @@
     {
         public static void Main(string[] args)
         {
-            FibonacciSeries.DisplayFibonacciSeries();
-            //PerfectNumber.CheckPerfectNumber();
+            //FibonacciSeries.DisplayFibonacciSeries();
+            PerfectNumber.CheckPerfectNumber();
             //ReverseNumber.ReverseTheNumber();
             //PrimeNumber.CheckPrime();
             //CouponNumbers.GenerateCouponNumber();
