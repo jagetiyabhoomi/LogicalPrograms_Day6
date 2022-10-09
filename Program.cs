@@ -6,9 +6,9 @@
         public static void Main(string[] args)
         {
             //FibonacciSeries.DisplayFibonacciSeries();
-            PerfectNumber.CheckPerfectNumber();
+            //PerfectNumber.CheckPerfectNumber();
             //ReverseNumber.ReverseTheNumber();
-            //PrimeNumber.CheckPrime();
+            PrimeNumber.CheckPrime();
             //CouponNumbers.GenerateCouponNumber();
         }
     }
